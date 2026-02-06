@@ -81,6 +81,7 @@
     "authorUsernames": [],
     "categories": [],
     "playableDevices": [
+      "mobile",
       "mobile"
     ],
     "extensionProperties": [],
@@ -92,14 +93,413 @@
     "currentPlatform": "GDevelop JS platform"
   },
   "resources": {
-    "resources": []
+    "resources": [
+      {
+        "file": "assets/NewSprite6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite7.png\"}",
+        "name": "NewSprite5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Shaded Red Fill Bar.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Shaded Red Fill Bar.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/96409107ae77918bbcde7a715c09e12b1b6c8ef16524b06b0d162955f1bd1a27_Shaded Red Fill Bar.png",
+          "name": "Shaded Red Fill Bar.png"
+        }
+      },
+      {
+        "file": "assets/Wood Bar Border.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wood Bar Border.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/5c3135f6fa8587da82ddea950881fc8b35d422bb806d9331f8b47fdc715ee76a_Wood Bar Border.png",
+          "name": "Wood Bar Border.png"
+        }
+      },
+      {
+        "file": "gamejam.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "gamejam.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite9",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite12.png\"}",
+        "name": "NewSprite10",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite12.png\"}",
+        "name": "NewSprite11",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite12.png\"}",
+        "name": "NewSprite12",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite13.png\"}",
+        "name": "NewSprite13",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite14.png\"}",
+        "name": "NewSprite14",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite15.png\"}",
+        "name": "NewSprite15",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite16.png\"}",
+        "name": "NewSprite16",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite17.png\"}",
+        "name": "NewSprite17",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite18.png\"}",
+        "name": "NewSprite18",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "04B_30__.TTF",
+        "kind": "font",
+        "metadata": "",
+        "name": "04B_30__.TTF",
+        "userAdded": false
+      },
+      {
+        "file": "play.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "play.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "quit.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "quit.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "setting.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "setting.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "background_setting.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "background_setting.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "sound.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sound.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "music.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "music.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "plush.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "plush.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "min.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "min.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Square Green Slider Border.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Square Green Slider Border.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Settings UI/Slider/pixel art/b20061f94d8b7288702975d6bd15d1a750a6b5ba429c22cb695b19210d0da8b9_Square Green Slider Border.png",
+          "name": "Square Green Slider Border.png"
+        }
+      },
+      {
+        "file": "assets/Square Green Slider Fill Bar.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Square Green Slider Fill Bar.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Settings UI/Slider/pixel art/553dd6c98bc6b7c3539f936e1c0815fef2796c9aa3468ae90d288bdb5931076b_Square Green Slider Fill Bar.png",
+          "name": "Square Green Slider Fill Bar.png"
+        }
+      },
+      {
+        "file": "assets/Square Green Slider Thumb.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Square Green Slider Thumb.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Settings UI/Slider/pixel art/7f9d3fcd723e6cd77452d818e3cba9775f63acdbf98378e7276cc95bf1213e86_Square Green Slider Thumb.png",
+          "name": "Square Green Slider Thumb.png"
+        }
+      },
+      {
+        "file": "assets/Square Blue Slider Border.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Square Blue Slider Border.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Settings UI/Slider/pixel art/4358a20ce4a1e83f8643b287f37cefadefc1941d23cfdc50a3836ecd0dd209f1_Square Blue Slider Border.png",
+          "name": "Square Blue Slider Border.png"
+        }
+      },
+      {
+        "file": "assets/Square Blue Slider Fill Bar.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Square Blue Slider Fill Bar.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Settings UI/Slider/pixel art/71e7d4c8549a750e6e7b6bc6508a352176cb64a57129e96bdd8f2c5bbc187820_Square Blue Slider Fill Bar.png",
+          "name": "Square Blue Slider Fill Bar.png"
+        }
+      },
+      {
+        "file": "assets/Square Blue Slider Thumb.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Square Blue Slider Thumb.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Settings UI/Slider/pixel art/984a68a8bbb562d3f01a8a1993720778df07d37bb3314ed6f1aaf3d4f0edede3_Square Blue Slider Thumb.png",
+          "name": "Square Blue Slider Thumb.png"
+        }
+      },
+      {
+        "file": "close.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "close.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Flat Heart Empty.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Heart Empty.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/c0bac0102b6467c3f428f093a162ad8aedc069b2bf3cbe65f344353c3695ecdf_Flat Heart Empty.png",
+          "name": "Flat Heart Empty.png"
+        }
+      },
+      {
+        "file": "assets/Flat Heart Filled.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Heart Filled.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/4158f811cf0bb821a58f98d8cb78f2257ee590210091ab56b46703e94044ee7a_Flat Heart Filled.png",
+          "name": "Flat Heart Filled.png"
+        }
+      },
+      {
+        "file": "pause.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pause.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pauseB.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pauseB.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "back.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "back.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "next.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "next.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "pixil-frame-0 (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixil-frame-0 (1).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "button.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "button.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "typing.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "typing.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      }
+    ]
   },
   "objects": [],
   "objectsFolderStructure": {
     "folderName": "__ROOT"
   },
   "objectsGroups": [],
-  "variables": [],
+  "variables": [
+    {
+      "name": "Data",
+      "type": "structure",
+      "children": [
+        {
+          "name": "HealtHome",
+          "type": "number",
+          "value": 3
+        },
+        {
+          "name": "Music",
+          "type": "number",
+          "value": 50
+        },
+        {
+          "name": "Sound",
+          "type": "number",
+          "value": 50
+        }
+      ]
+    },
+    {
+      "name": "GoodEnding",
+      "type": "boolean",
+      "value": false
+    }
+  ],
   "layouts": [
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
@@ -128,21 +528,34 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/creditscene"
-    },
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/settingscene"
-    },
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/untitled-scene"
-    },
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/untitled-scene2"
     }
   ],
   "externalEvents": [],
-  "eventsFunctionsExtensions": [],
+  "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/smoothcamera"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/rollingcounter"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/panelspritecontinuousbar"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/autotyping"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/panelspriteslider"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/tiledunitsbar"
+    }
+  ],
   "externalLayouts": []
 }
