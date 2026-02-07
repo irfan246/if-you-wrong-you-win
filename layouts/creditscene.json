@@ -134,13 +134,13 @@
       "effects": [],
       "behaviors": [
         {
+          "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
           "bottomEdgeAnchor": 0,
           "leftEdgeAnchor": 4,
-          "name": "Anchor",
           "relativeToOriginalWindowSize": true,
           "rightEdgeAnchor": 4,
           "topEdgeAnchor": 0,
-          "type": "AnchorBehavior::AnchorBehavior",
           "useLegacyBottomAndRightAnchors": false
         },
         {
@@ -208,6 +208,19 @@
       "actions": [
         {
           "type": {
+            "value": "PlayMusicOnChannel"
+          },
+          "parameters": [
+            "",
+            "credit.mp3",
+            "1",
+            "yes",
+            "Data.Music",
+            ""
+          ]
+        },
+        {
+          "type": {
             "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
           },
           "parameters": [
@@ -245,6 +258,23 @@
             "",
             "\"HomeScene\"",
             ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [
+        {
+          "type": {
+            "value": "SetMusicChannelVolume"
+          },
+          "parameters": [
+            "Bgm",
+            "1",
+            "=",
+            "Data.Music"
           ]
         }
       ]

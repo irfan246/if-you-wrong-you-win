@@ -66,7 +66,7 @@
       "height": 0,
       "keepRatio": true,
       "layer": "",
-      "name": "NewText",
+      "name": "GameOver",
       "persistentUuid": "c5535979-5ea0-4a08-acc8-333cb287e68c",
       "width": 0,
       "x": 281,
@@ -491,7 +491,7 @@
       "assetStoreId": "",
       "bold": false,
       "italic": false,
-      "name": "NewText",
+      "name": "GameOver",
       "smoothed": true,
       "type": "TextObject::Text",
       "underlined": false,
@@ -499,20 +499,20 @@
       "effects": [],
       "behaviors": [
         {
+          "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
           "bottomEdgeAnchor": 4,
           "leftEdgeAnchor": 4,
-          "name": "Anchor",
           "relativeToOriginalWindowSize": true,
           "rightEdgeAnchor": 4,
           "topEdgeAnchor": 4,
-          "type": "AnchorBehavior::AnchorBehavior",
           "useLegacyBottomAndRightAnchors": false
         },
         {
           "name": "AutoTyping",
           "type": "AutoTyping::AutoTyping",
           "Text": "Text",
-          "Interval": 0.05,
+          "Interval": 0.15,
           "CharacterJustAdded": false,
           "FullText": "",
           "TypedText": ""
@@ -561,7 +561,7 @@
         "objectName": "Background"
       },
       {
-        "objectName": "NewText"
+        "objectName": "GameOver"
       }
     ]
   },
@@ -584,7 +584,80 @@
             "value": "Hide"
           },
           "parameters": [
-            "NewText"
+            "GameOver"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::Name"
+          },
+          "parameters": [
+            "slash",
+            "Animation",
+            "=",
+            "\"NewSprite\""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "PlaySoundOnChannel"
+          },
+          "parameters": [
+            "",
+            "slash.ogg",
+            "2",
+            "",
+            "Data.Sound",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "inverted": true,
+            "value": "LayerVisible"
+          },
+          "parameters": [
+            "",
+            "\"Slash\""
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "PlaySoundOnChannel"
+          },
+          "parameters": [
+            "",
+            "gameover.wav",
+            "2",
+            "",
+            "Data.Sound",
+            ""
           ]
         }
       ]
@@ -641,7 +714,7 @@
                 "value": "Show"
               },
               "parameters": [
-                "NewText",
+                "GameOver",
                 ""
               ]
             },
@@ -650,7 +723,7 @@
                 "value": "AutoTyping::AutoTyping::RestartFromBeginning"
               },
               "parameters": [
-                "NewText",
+                "GameOver",
                 "AutoTyping",
                 ""
               ]
@@ -665,7 +738,7 @@
                 "value": "AutoTyping::AutoTyping::IsFinished"
               },
               "parameters": [
-                "NewText",
+                "GameOver",
                 "AutoTyping",
                 ""
               ]
@@ -690,6 +763,23 @@
                 ""
               ]
             }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [
+        {
+          "type": {
+            "value": "SetSoundChannelVolume"
+          },
+          "parameters": [
+            "Bgm",
+            "2",
+            "=",
+            "Data.Sound"
           ]
         }
       ]

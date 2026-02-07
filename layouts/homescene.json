@@ -20,7 +20,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.3111974942445218,
+    "zoomFactor": 0.3797121001947959,
     "windowMask": false,
     "selectedLayer": "",
     "gameEditorMode": "instances-editor"
@@ -36,54 +36,6 @@
   "instances": [
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "If_You",
-      "persistentUuid": "726a7f1b-4064-4f0b-a882-85e7e3781172",
-      "width": 0,
-      "x": 67,
-      "y": 300,
-      "zOrder": 1,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "Wrong",
-      "persistentUuid": "b9bf4752-20cc-41e6-ac0a-d136a6e53e69",
-      "width": 0,
-      "x": 388,
-      "y": 296,
-      "zOrder": 2,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "",
-      "name": "You_Win",
-      "persistentUuid": "2e074966-f56a-4f31-bb80-a1893b56b6c0",
-      "width": 0,
-      "x": 379,
-      "y": 380,
-      "zOrder": 3,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
       "customSize": true,
       "depth": 1,
       "height": 118,
@@ -92,8 +44,8 @@
       "name": "PlayButton",
       "persistentUuid": "0871dbd1-f02b-47c8-9891-4a615f846ad7",
       "width": 296,
-      "x": 812,
-      "y": 295,
+      "x": 914,
+      "y": 416,
       "zOrder": 4,
       "numberProperties": [],
       "stringProperties": [],
@@ -108,8 +60,8 @@
       "name": "QuitButton",
       "persistentUuid": "e3ab0929-61f0-41c5-9dff-799f3f3771b4",
       "width": 0,
-      "x": 798,
-      "y": 109,
+      "x": 914,
+      "y": 199,
       "zOrder": 5,
       "numberProperties": [],
       "stringProperties": [],
@@ -125,106 +77,8 @@
       "name": "SettingButton",
       "persistentUuid": "99256c43-9b3a-431c-b827-ebceebf369b0",
       "width": 296,
-      "x": 817,
-      "y": 470,
-      "zOrder": 6,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "GoodEnding",
-      "name": "If_You",
-      "persistentUuid": "a04d5016-6c25-4a22-9a5f-a0ee58a0a491",
-      "width": 0,
-      "x": 67,
-      "y": 300,
-      "zOrder": 1,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "GoodEnding",
-      "name": "Wrong",
-      "persistentUuid": "6071784a-df93-408b-862b-8d6deab714b3",
-      "width": 0,
-      "x": 388,
-      "y": 296,
-      "zOrder": 2,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "GoodEnding",
-      "name": "You_Win",
-      "persistentUuid": "fd9dfd0c-33ac-4537-be7f-090b9100fa95",
-      "width": 0,
-      "x": 379,
-      "y": 380,
-      "zOrder": 3,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": false,
-      "height": 0,
-      "keepRatio": true,
-      "layer": "GoodEnding",
-      "name": "QuitButton",
-      "persistentUuid": "ea867940-cd04-452c-a644-95d621d68e24",
-      "width": 0,
-      "x": 798,
-      "y": 109,
-      "zOrder": 5,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 118,
-      "keepRatio": true,
-      "layer": "GoodEnding",
-      "name": "PlayButton",
-      "persistentUuid": "ed4b405c-8a3f-4ee2-88b1-01f50475d060",
-      "width": 296,
-      "x": 812,
-      "y": 295,
-      "zOrder": 4,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 117.3491124260355,
-      "keepRatio": true,
-      "layer": "GoodEnding",
-      "name": "SettingButton",
-      "persistentUuid": "9ca2461a-4e95-4942-9e95-249ca2446f6e",
-      "width": 296,
-      "x": 817,
-      "y": 470,
+      "x": 84,
+      "y": 326,
       "zOrder": 6,
       "numberProperties": [],
       "stringProperties": [],
@@ -239,8 +93,8 @@
       "name": "BackgroundSetting",
       "persistentUuid": "14420fd7-92a7-4639-b239-9debcae01903",
       "width": 0,
-      "x": 172,
-      "y": 75,
+      "x": 28,
+      "y": 109,
       "zOrder": 7,
       "numberProperties": [],
       "stringProperties": [],
@@ -255,8 +109,8 @@
       "name": "IconBgm",
       "persistentUuid": "93a5b434-accf-4e60-b785-8b9a7e8bf936",
       "width": 0,
-      "x": 239,
-      "y": 253,
+      "x": 79,
+      "y": 300,
       "zOrder": 8,
       "numberProperties": [],
       "stringProperties": [],
@@ -271,109 +125,9 @@
       "name": "IconSfx",
       "persistentUuid": "8fe795f9-ee27-4091-8ab9-ce06d3081ab6",
       "width": 0,
-      "x": 239,
-      "y": 425,
+      "x": 79,
+      "y": 409,
       "zOrder": 9,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 64,
-      "height": 40,
-      "layer": "Setting",
-      "name": "Bgm",
-      "persistentUuid": "eb655572-5ec6-4bdc-9f23-d27598cb6104",
-      "width": 456,
-      "x": 376,
-      "y": 295,
-      "zOrder": 10,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 135.73953488372092,
-      "height": 40,
-      "layer": "Setting",
-      "name": "Sfx",
-      "persistentUuid": "bc419516-f500-43fe-af3c-e5b4b541bdae",
-      "width": 456,
-      "x": 376,
-      "y": 464,
-      "zOrder": 11,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 56,
-      "keepRatio": true,
-      "layer": "Setting",
-      "name": "ButtonPlusBgm",
-      "persistentUuid": "8dffaa80-89cd-4877-9204-d475f06e0013",
-      "width": 56,
-      "x": 958,
-      "y": 287,
-      "zOrder": 12,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 56,
-      "keepRatio": true,
-      "layer": "Setting",
-      "name": "ButtonMinBgm",
-      "persistentUuid": "13820aa1-f453-4c8e-b50f-0e3309725d43",
-      "width": 56,
-      "x": 873,
-      "y": 287,
-      "zOrder": 13,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 56,
-      "keepRatio": true,
-      "layer": "Setting",
-      "name": "ButtonPlusSfx",
-      "persistentUuid": "347d69da-a6f5-40e2-bbd4-4a867214414b",
-      "width": 56,
-      "x": 958,
-      "y": 456,
-      "zOrder": 14,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 0,
-      "height": 56,
-      "keepRatio": true,
-      "layer": "Setting",
-      "name": "ButtonMinSfx",
-      "persistentUuid": "16347726-e05e-48c0-a9a3-cf150434a9d0",
-      "width": 56,
-      "x": 873,
-      "y": 456,
-      "zOrder": 15,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -388,8 +142,8 @@
       "name": "ButtonX",
       "persistentUuid": "82136d4d-c3ad-4f20-a96e-57fd2b7f2a40",
       "width": 60,
-      "x": 1048,
-      "y": 119,
+      "x": 196,
+      "y": 171,
       "zOrder": 16,
       "numberProperties": [],
       "stringProperties": [],
@@ -401,180 +155,67 @@
       "height": 0,
       "keepRatio": true,
       "layer": "",
-      "name": "FlatHeartBar",
-      "persistentUuid": "96c32603-d5dc-4f4d-8380-5e1dda818a17",
+      "name": "Background",
+      "persistentUuid": "222a541d-3535-41db-9f0a-65ccc3215427",
       "width": 0,
-      "x": 73,
-      "y": 365,
+      "x": 0,
+      "y": 0,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 224,
+      "layer": "",
+      "name": "Titile",
+      "persistentUuid": "facd7f98-99e4-43ee-9194-96905c0a0886",
+      "width": 418,
+      "x": 431,
+      "y": 244,
       "zOrder": 17,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 20,
+      "keepRatio": true,
+      "layer": "Setting",
+      "name": "Bgm",
+      "persistentUuid": "47157bfa-1c7d-47f5-8772-e7bc12cc8843",
+      "width": 198,
+      "x": 151,
+      "y": 318,
+      "zOrder": 18,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0.7674418604651163,
+      "height": 20,
+      "layer": "Setting",
+      "name": "Sfx",
+      "persistentUuid": "f6ea3134-314e-4572-8b5d-ad35d21f8e70",
+      "width": 198,
+      "x": 151,
+      "y": 430,
+      "zOrder": 19,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
     }
   ],
   "objects": [
-    {
-      "assetStoreId": "",
-      "bold": false,
-      "italic": false,
-      "name": "If_You",
-      "smoothed": true,
-      "type": "TextObject::Text",
-      "underlined": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "bottomEdgeAnchor": 0,
-          "leftEdgeAnchor": 0,
-          "name": "Anchor",
-          "relativeToOriginalWindowSize": true,
-          "rightEdgeAnchor": 0,
-          "topEdgeAnchor": 4,
-          "type": "AnchorBehavior::AnchorBehavior",
-          "useLegacyBottomAndRightAnchors": false
-        }
-      ],
-      "string": "If You",
-      "font": "04B_30__.TTF",
-      "textAlignment": "left",
-      "characterSize": 60,
-      "color": {
-        "b": 0,
-        "g": 0,
-        "r": 0
-      },
-      "content": {
-        "bold": false,
-        "isOutlineEnabled": false,
-        "isShadowEnabled": false,
-        "italic": false,
-        "outlineColor": "255;255;255",
-        "outlineThickness": 2,
-        "shadowAngle": 90,
-        "shadowBlurRadius": 2,
-        "shadowColor": "0;0;0",
-        "shadowDistance": 4,
-        "shadowOpacity": 127,
-        "smoothed": true,
-        "underlined": false,
-        "text": "If You",
-        "font": "04B_30__.TTF",
-        "textAlignment": "left",
-        "verticalTextAlignment": "top",
-        "characterSize": 60,
-        "lineHeight": 0,
-        "color": "0;0;0"
-      }
-    },
-    {
-      "assetStoreId": "",
-      "bold": false,
-      "italic": false,
-      "name": "Wrong",
-      "smoothed": true,
-      "type": "TextObject::Text",
-      "underlined": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "bottomEdgeAnchor": 0,
-          "leftEdgeAnchor": 0,
-          "name": "Anchor",
-          "relativeToOriginalWindowSize": true,
-          "rightEdgeAnchor": 0,
-          "topEdgeAnchor": 4,
-          "type": "AnchorBehavior::AnchorBehavior",
-          "useLegacyBottomAndRightAnchors": false
-        }
-      ],
-      "string": "Wrong",
-      "font": "04B_30__.TTF",
-      "textAlignment": "left",
-      "characterSize": 60,
-      "color": {
-        "b": 11,
-        "g": 189,
-        "r": 19
-      },
-      "content": {
-        "bold": false,
-        "isOutlineEnabled": false,
-        "isShadowEnabled": false,
-        "italic": false,
-        "outlineColor": "255;255;255",
-        "outlineThickness": 2,
-        "shadowAngle": 90,
-        "shadowBlurRadius": 2,
-        "shadowColor": "0;0;0",
-        "shadowDistance": 4,
-        "shadowOpacity": 127,
-        "smoothed": true,
-        "underlined": false,
-        "text": "Wrong",
-        "font": "04B_30__.TTF",
-        "textAlignment": "left",
-        "verticalTextAlignment": "top",
-        "characterSize": 60,
-        "lineHeight": 0,
-        "color": "19;189;11"
-      }
-    },
-    {
-      "assetStoreId": "",
-      "bold": false,
-      "italic": false,
-      "name": "You_Win",
-      "smoothed": true,
-      "type": "TextObject::Text",
-      "underlined": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "bottomEdgeAnchor": 4,
-          "leftEdgeAnchor": 0,
-          "name": "Anchor",
-          "relativeToOriginalWindowSize": true,
-          "rightEdgeAnchor": 0,
-          "topEdgeAnchor": 0,
-          "type": "AnchorBehavior::AnchorBehavior",
-          "useLegacyBottomAndRightAnchors": false
-        }
-      ],
-      "string": "You Win",
-      "font": "04B_30__.TTF",
-      "textAlignment": "left",
-      "characterSize": 40,
-      "color": {
-        "b": 0,
-        "g": 0,
-        "r": 0
-      },
-      "content": {
-        "bold": false,
-        "isOutlineEnabled": false,
-        "isShadowEnabled": false,
-        "italic": false,
-        "outlineColor": "255;255;255",
-        "outlineThickness": 2,
-        "shadowAngle": 90,
-        "shadowBlurRadius": 2,
-        "shadowColor": "0;0;0",
-        "shadowDistance": 4,
-        "shadowOpacity": 127,
-        "smoothed": true,
-        "underlined": false,
-        "text": "You Win",
-        "font": "04B_30__.TTF",
-        "textAlignment": "left",
-        "verticalTextAlignment": "top",
-        "characterSize": 40,
-        "lineHeight": 0,
-        "color": "0;0;0"
-      }
-    },
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
@@ -585,13 +226,13 @@
       "effects": [],
       "behaviors": [
         {
+          "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
+          "rightEdgeAnchor": 2,
           "bottomEdgeAnchor": 4,
           "leftEdgeAnchor": 0,
-          "name": "Anchor",
           "relativeToOriginalWindowSize": true,
-          "rightEdgeAnchor": 0,
           "topEdgeAnchor": 4,
-          "type": "AnchorBehavior::AnchorBehavior",
           "useLegacyBottomAndRightAnchors": false
         }
       ],
@@ -606,7 +247,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "play.png",
+                  "image": "Group 2.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -626,16 +267,16 @@
                         "y": 0
                       },
                       {
-                        "x": 334,
+                        "x": 271,
                         "y": 0
                       },
                       {
-                        "x": 334,
-                        "y": 130
+                        "x": 271,
+                        "y": 86
                       },
                       {
                         "x": 4,
-                        "y": 130
+                        "y": 86
                       }
                     ]
                   ]
@@ -656,13 +297,13 @@
       "effects": [],
       "behaviors": [
         {
-          "bottomEdgeAnchor": 0,
-          "leftEdgeAnchor": 0,
           "name": "Anchor",
-          "relativeToOriginalWindowSize": true,
-          "rightEdgeAnchor": 0,
-          "topEdgeAnchor": 1,
           "type": "AnchorBehavior::AnchorBehavior",
+          "bottomEdgeAnchor": 4,
+          "rightEdgeAnchor": 2,
+          "topEdgeAnchor": 4,
+          "leftEdgeAnchor": 0,
+          "relativeToOriginalWindowSize": true,
           "useLegacyBottomAndRightAnchors": false
         }
       ],
@@ -677,7 +318,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "quit.png",
+                  "image": "Group 3.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -693,20 +334,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 3,
+                        "x": 4,
                         "y": 0
                       },
                       {
-                        "x": 335,
+                        "x": 290,
                         "y": 0
                       },
                       {
-                        "x": 335,
-                        "y": 131
+                        "x": 290,
+                        "y": 88
                       },
                       {
-                        "x": 3,
-                        "y": 131
+                        "x": 4,
+                        "y": 88
                       }
                     ]
                   ]
@@ -727,13 +368,13 @@
       "effects": [],
       "behaviors": [
         {
-          "bottomEdgeAnchor": 2,
-          "leftEdgeAnchor": 0,
           "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
+          "bottomEdgeAnchor": 4,
+          "leftEdgeAnchor": 1,
+          "topEdgeAnchor": 4,
           "relativeToOriginalWindowSize": true,
           "rightEdgeAnchor": 0,
-          "topEdgeAnchor": 0,
-          "type": "AnchorBehavior::AnchorBehavior",
           "useLegacyBottomAndRightAnchors": false
         }
       ],
@@ -748,7 +389,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "setting.png",
+                  "image": "Group 1.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -768,16 +409,16 @@
                         "y": 0
                       },
                       {
-                        "x": 334,
+                        "x": 244,
                         "y": 0
                       },
                       {
-                        "x": 334,
-                        "y": 130
+                        "x": 244,
+                        "y": 82
                       },
                       {
                         "x": 4,
-                        "y": 130
+                        "y": 82
                       }
                     ]
                   ]
@@ -798,13 +439,13 @@
       "effects": [],
       "behaviors": [
         {
-          "bottomEdgeAnchor": 4,
-          "leftEdgeAnchor": 4,
           "name": "Anchor",
-          "relativeToOriginalWindowSize": true,
-          "rightEdgeAnchor": 4,
-          "topEdgeAnchor": 4,
           "type": "AnchorBehavior::AnchorBehavior",
+          "leftEdgeAnchor": 1,
+          "rightEdgeAnchor": 0,
+          "bottomEdgeAnchor": 4,
+          "relativeToOriginalWindowSize": true,
+          "topEdgeAnchor": 4,
           "useLegacyBottomAndRightAnchors": false
         }
       ],
@@ -819,7 +460,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "background_setting.png",
+                  "image": "setting (1).png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -835,20 +476,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
-                        "y": 0
+                        "x": 23,
+                        "y": 23
                       },
                       {
-                        "x": 932,
-                        "y": 0
+                        "x": 383,
+                        "y": 23
                       },
                       {
-                        "x": 932,
-                        "y": 575
+                        "x": 383,
+                        "y": 494
                       },
                       {
-                        "x": 0,
-                        "y": 575
+                        "x": 23,
+                        "y": 494
                       }
                     ]
                   ]
@@ -869,13 +510,13 @@
       "effects": [],
       "behaviors": [
         {
-          "bottomEdgeAnchor": 0,
-          "leftEdgeAnchor": 0,
           "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
+          "bottomEdgeAnchor": 4,
+          "leftEdgeAnchor": 1,
+          "topEdgeAnchor": 4,
           "relativeToOriginalWindowSize": true,
           "rightEdgeAnchor": 0,
-          "topEdgeAnchor": 1,
-          "type": "AnchorBehavior::AnchorBehavior",
           "useLegacyBottomAndRightAnchors": false
         }
       ],
@@ -890,7 +531,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "sound.png",
+                  "image": "Group 9.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -910,16 +551,16 @@
                         "y": 0
                       },
                       {
-                        "x": 115,
+                        "x": 298,
                         "y": 0
                       },
                       {
-                        "x": 115,
-                        "y": 115
+                        "x": 298,
+                        "y": 70
                       },
                       {
                         "x": 0,
-                        "y": 115
+                        "y": 70
                       }
                     ]
                   ]
@@ -940,277 +581,10 @@
       "effects": [],
       "behaviors": [
         {
+          "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
+          "leftEdgeAnchor": 1,
           "bottomEdgeAnchor": 2,
-          "leftEdgeAnchor": 0,
-          "name": "Anchor",
-          "relativeToOriginalWindowSize": true,
-          "rightEdgeAnchor": 0,
-          "topEdgeAnchor": 0,
-          "type": "AnchorBehavior::AnchorBehavior",
-          "useLegacyBottomAndRightAnchors": false
-        }
-      ],
-      "animations": [
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "music.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 0
-                      },
-                      {
-                        "x": 115,
-                        "y": 0
-                      },
-                      {
-                        "x": 115,
-                        "y": 115
-                      },
-                      {
-                        "x": 0,
-                        "y": 115
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
-      "name": "ButtonPlusBgm",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "bottomEdgeAnchor": 0,
-          "leftEdgeAnchor": 0,
-          "name": "Anchor",
-          "relativeToOriginalWindowSize": true,
-          "rightEdgeAnchor": 0,
-          "topEdgeAnchor": 1,
-          "type": "AnchorBehavior::AnchorBehavior",
-          "useLegacyBottomAndRightAnchors": false
-        }
-      ],
-      "animations": [
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "plush.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 0
-                      },
-                      {
-                        "x": 115,
-                        "y": 0
-                      },
-                      {
-                        "x": 115,
-                        "y": 115
-                      },
-                      {
-                        "x": 0,
-                        "y": 115
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
-      "name": "ButtonMinBgm",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "bottomEdgeAnchor": 0,
-          "leftEdgeAnchor": 0,
-          "name": "Anchor",
-          "relativeToOriginalWindowSize": true,
-          "rightEdgeAnchor": 0,
-          "topEdgeAnchor": 1,
-          "type": "AnchorBehavior::AnchorBehavior",
-          "useLegacyBottomAndRightAnchors": false
-        }
-      ],
-      "animations": [
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "min.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 0
-                      },
-                      {
-                        "x": 115,
-                        "y": 0
-                      },
-                      {
-                        "x": 115,
-                        "y": 115
-                      },
-                      {
-                        "x": 0,
-                        "y": 115
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "assetStoreId": "d32eb2703c5acb4488d36fef28164ddf46d8f5b2f3f7a97fa11640cf8d1d91e9",
-      "name": "Bgm",
-      "type": "PanelSpriteSlider::PanelSpriteSlider",
-      "variant": "Square Blue Slider",
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "bottomEdgeAnchor": 0,
-          "leftEdgeAnchor": 0,
-          "name": "Anchor",
-          "relativeToOriginalWindowSize": true,
-          "rightEdgeAnchor": 0,
-          "topEdgeAnchor": 1,
-          "type": "AnchorBehavior::AnchorBehavior",
-          "useLegacyBottomAndRightAnchors": false
-        }
-      ],
-      "content": {
-        "BarTopPadding": 3,
-        "BarLeftPadding": 3,
-        "BarRightPadding": 3,
-        "BarBottomPadding": 4,
-        "LabelMargin": 4
-      }
-    },
-    {
-      "assetStoreId": "d32eb2703c5acb4488d36fef28164ddf46d8f5b2f3f7a97fa11640cf8d1d91e9",
-      "name": "Sfx",
-      "type": "PanelSpriteSlider::PanelSpriteSlider",
-      "variant": "Square Blue Slider",
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "bottomEdgeAnchor": 2,
-          "leftEdgeAnchor": 0,
-          "name": "Anchor",
-          "relativeToOriginalWindowSize": true,
-          "rightEdgeAnchor": 0,
-          "topEdgeAnchor": 0,
-          "type": "AnchorBehavior::AnchorBehavior",
-          "useLegacyBottomAndRightAnchors": false
-        }
-      ],
-      "content": {
-        "BarTopPadding": 3,
-        "BarLeftPadding": 3,
-        "BarRightPadding": 3,
-        "BarBottomPadding": 4,
-        "LabelMargin": 4
-      }
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
-      "name": "ButtonPlusSfx",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "bottomEdgeAnchor": 2,
-          "name": "Anchor",
-          "type": "AnchorBehavior::AnchorBehavior",
-          "leftEdgeAnchor": 0,
           "relativeToOriginalWindowSize": true,
           "rightEdgeAnchor": 0,
           "topEdgeAnchor": 0,
@@ -1228,7 +602,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "plush.png",
+                  "image": "Group 8.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1248,87 +622,16 @@
                         "y": 0
                       },
                       {
-                        "x": 115,
+                        "x": 298,
                         "y": 0
                       },
                       {
-                        "x": 115,
-                        "y": 115
+                        "x": 298,
+                        "y": 70
                       },
                       {
                         "x": 0,
-                        "y": 115
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "",
-      "name": "ButtonMinSfx",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [
-        {
-          "bottomEdgeAnchor": 2,
-          "name": "Anchor",
-          "type": "AnchorBehavior::AnchorBehavior",
-          "leftEdgeAnchor": 0,
-          "relativeToOriginalWindowSize": true,
-          "rightEdgeAnchor": 0,
-          "topEdgeAnchor": 0,
-          "useLegacyBottomAndRightAnchors": false
-        }
-      ],
-      "animations": [
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "min.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 0
-                      },
-                      {
-                        "x": 115,
-                        "y": 0
-                      },
-                      {
-                        "x": 115,
-                        "y": 115
-                      },
-                      {
-                        "x": 0,
-                        "y": 115
+                        "y": 70
                       }
                     ]
                   ]
@@ -1349,13 +652,13 @@
       "effects": [],
       "behaviors": [
         {
-          "bottomEdgeAnchor": 0,
-          "leftEdgeAnchor": 0,
           "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
+          "leftEdgeAnchor": 2,
+          "bottomEdgeAnchor": 0,
           "relativeToOriginalWindowSize": true,
           "rightEdgeAnchor": 0,
           "topEdgeAnchor": 1,
-          "type": "AnchorBehavior::AnchorBehavior",
           "useLegacyBottomAndRightAnchors": false
         }
       ],
@@ -1370,7 +673,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "close.png",
+                  "image": "Group 7.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1390,16 +693,16 @@
                         "y": 0
                       },
                       {
-                        "x": 115,
+                        "x": 68,
                         "y": 0
                       },
                       {
-                        "x": 115,
-                        "y": 115
+                        "x": 68,
+                        "y": 68
                       },
                       {
                         "x": 0,
-                        "y": 115
+                        "y": 68
                       }
                     ]
                   ]
@@ -1419,13 +722,13 @@
       "effects": [],
       "behaviors": [
         {
+          "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
           "bottomEdgeAnchor": 4,
           "leftEdgeAnchor": 0,
-          "name": "Anchor",
           "relativeToOriginalWindowSize": true,
           "rightEdgeAnchor": 0,
           "topEdgeAnchor": 0,
-          "type": "AnchorBehavior::AnchorBehavior",
           "useLegacyBottomAndRightAnchors": false
         }
       ],
@@ -1436,20 +739,167 @@
         "InitialValue": 3,
         "MaxValue": 3
       }
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Background",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "background.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 1280,
+                        "y": 0
+                      },
+                      {
+                        "x": 1280,
+                        "y": 720
+                      },
+                      {
+                        "x": 0,
+                        "y": 720
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Titile",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Anchor",
+          "type": "AnchorBehavior::AnchorBehavior",
+          "bottomEdgeAnchor": 4,
+          "leftEdgeAnchor": 4,
+          "relativeToOriginalWindowSize": true,
+          "rightEdgeAnchor": 4,
+          "topEdgeAnchor": 4,
+          "useLegacyBottomAndRightAnchors": false
+        }
+      ],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Group 4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 14,
+                        "y": 19
+                      },
+                      {
+                        "x": 450,
+                        "y": 19
+                      },
+                      {
+                        "x": 450,
+                        "y": 230
+                      },
+                      {
+                        "x": 14,
+                        "y": 230
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "Bgm",
+      "type": "PanelSpriteSlider::PanelSpriteSlider",
+      "variant": "New variant",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "ShowLabelAtChanges": false
+      }
+    },
+    {
+      "assetStoreId": "",
+      "name": "Sfx",
+      "persistentUuid": "5234ab3b-bc2c-40de-ab34-870a94b3bcb8",
+      "type": "PanelSpriteSlider::PanelSpriteSlider",
+      "variant": "New variant",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "ShowLabelAtChanges": false
+      }
     }
   ],
   "objectsFolderStructure": {
     "folderName": "__ROOT",
     "children": [
-      {
-        "objectName": "If_You"
-      },
-      {
-        "objectName": "Wrong"
-      },
-      {
-        "objectName": "You_Win"
-      },
       {
         "objectName": "PlayButton"
       },
@@ -1458,6 +908,9 @@
       },
       {
         "objectName": "SettingButton"
+      },
+      {
+        "objectName": "Titile"
       },
       {
         "objectName": "BackgroundSetting"
@@ -1469,28 +922,19 @@
         "objectName": "IconSfx"
       },
       {
-        "objectName": "ButtonPlusBgm"
+        "objectName": "ButtonX"
       },
       {
-        "objectName": "ButtonMinBgm"
+        "objectName": "FlatHeartBar"
       },
       {
-        "objectName": "ButtonPlusSfx"
-      },
-      {
-        "objectName": "ButtonMinSfx"
+        "objectName": "Background"
       },
       {
         "objectName": "Bgm"
       },
       {
         "objectName": "Sfx"
-      },
-      {
-        "objectName": "ButtonX"
-      },
-      {
-        "objectName": "FlatHeartBar"
       }
     ]
   },
@@ -1511,6 +955,19 @@
       "actions": [
         {
           "type": {
+            "value": "PlayMusicOnChannel"
+          },
+          "parameters": [
+            "",
+            "main menu.mp3",
+            "1",
+            "",
+            "Data.Music - 10",
+            ""
+          ]
+        },
+        {
+          "type": {
             "value": "HideLayer"
           },
           "parameters": [
@@ -1526,6 +983,17 @@
             "wait",
             "=",
             "1"
+          ]
+        },
+        {
+          "type": {
+            "value": "TiledUnitsBar::TiledUnitsBar::SetValue"
+          },
+          "parameters": [
+            "FlatHeartBar",
+            "=",
+            "Data.HealtHome",
+            ""
           ]
         }
       ],
@@ -1549,79 +1017,18 @@
       ]
     },
     {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "BooleanVariable"
-          },
-          "parameters": [
-            "GoodEnding",
-            "True",
-            ""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "HideLayer"
-          },
-          "parameters": [
-            "",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "ShowLayer"
-          },
-          "parameters": [
-            "",
-            "\"GoodEnding\""
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "inverted": true,
-            "value": "LayerVisible"
-          },
-          "parameters": [
-            "",
-            "\"Setting\""
-          ]
-        },
-        {
-          "type": {
-            "value": "NumberVariable"
-          },
-          "parameters": [
-            "wait",
-            "=",
-            "1"
-          ]
-        }
-      ],
-      "actions": [],
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "Layer",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
       "events": [
         {
+          "folded": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
-            {
-              "type": {
-                "value": "BooleanVariable"
-              },
-              "parameters": [
-                "GoodEnding",
-                "=",
-                ""
-              ]
-            },
             {
               "type": {
                 "inverted": true,
@@ -1629,13 +1036,24 @@
               },
               "parameters": [
                 "",
-                "\"GoodEnding\""
+                "\"Setting\""
+              ]
+            },
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "wait",
+                "=",
+                "1"
               ]
             }
           ],
           "actions": [],
           "events": [
             {
+              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -1681,7 +1099,7 @@
                         "button.mp3",
                         "2",
                         "",
-                        "Data.Sound",
+                        "Data.Sound + 20",
                         ""
                       ]
                     },
@@ -1728,7 +1146,7 @@
                         "button.mp3",
                         "2",
                         "",
-                        "Data.Sound",
+                        "Data.Sound + 20",
                         ""
                       ]
                     },
@@ -1777,7 +1195,7 @@
                         "button.mp3",
                         "2",
                         "",
-                        "Data.Sound",
+                        "Data.Sound + 20",
                         ""
                       ]
                     },
@@ -1827,31 +1245,23 @@
           ]
         },
         {
+          "folded": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
-            {
-              "type": {
-                "value": "BooleanVariable"
-              },
-              "parameters": [
-                "GoodEnding",
-                "True",
-                ""
-              ]
-            },
             {
               "type": {
                 "value": "LayerVisible"
               },
               "parameters": [
                 "",
-                "\"GoodEnding\""
+                "\"Setting\""
               ]
             }
           ],
           "actions": [],
           "events": [
             {
+              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -1880,7 +1290,7 @@
                         "value": "IsCursorOnObject"
                       },
                       "parameters": [
-                        "PlayButton",
+                        "ButtonX",
                         "",
                         "",
                         ""
@@ -1897,7 +1307,7 @@
                         "button.mp3",
                         "2",
                         "",
-                        "Data.Sound",
+                        "Data.Sound + 20",
                         ""
                       ]
                     },
@@ -1911,90 +1321,23 @@
                     },
                     {
                       "type": {
-                        "value": "Quit"
-                      },
-                      "parameters": [
-                        ""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "IsCursorOnObject"
-                      },
-                      "parameters": [
-                        "QuitButton",
-                        "",
-                        "",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "PlaySoundOnChannel"
+                        "value": "HideLayer"
                       },
                       "parameters": [
                         "",
-                        "button.mp3",
-                        "2",
-                        "",
-                        "Data.Sound",
-                        ""
+                        "\"Setting\""
                       ]
                     },
                     {
                       "type": {
-                        "value": "Wait"
-                      },
-                      "parameters": [
-                        "0.3"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Scene"
+                        "value": "SetLayerEffectParameter"
                       },
                       "parameters": [
                         "",
-                        "\"CutScene\"",
-                        ""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "IsCursorOnObject"
-                      },
-                      "parameters": [
-                        "SettingButton",
                         "",
-                        "",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "PlaySoundOnChannel"
-                      },
-                      "parameters": [
-                        "",
-                        "button.mp3",
-                        "2",
-                        "",
-                        "Data.Sound",
-                        ""
+                        "\"Effect\"",
+                        "\"lightness\"",
+                        "0"
                       ]
                     },
                     {
@@ -2012,319 +1355,138 @@
                       "parameters": [
                         "wait",
                         "=",
-                        "0"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ShowLayer"
-                      },
-                      "parameters": [
-                        "",
-                        "\"Setting\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "SetLayerEffectParameter"
-                      },
-                      "parameters": [
-                        "",
-                        "",
-                        "\"Effect\"",
-                        "\"lightness\"",
-                        "-0.5"
+                        "1"
                       ]
                     }
                   ]
                 }
               ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PanelSpriteSlider::PanelSpriteSlider::IsBeingDragged"
+                  },
+                  "parameters": [
+                    "Bgm",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Data.Music",
+                    "=",
+                    "Bgm.Value()"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PanelSpriteSlider::PanelSpriteSlider::IsBeingDragged"
+                  },
+                  "parameters": [
+                    "Sfx",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Data.Sound",
+                    "=",
+                    "Sfx.Value()"
+                  ]
+                }
+              ]
             }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "LayerVisible"
-          },
-          "parameters": [
-            "",
-            "\"Setting\""
           ]
         }
       ],
-      "actions": [],
+      "parameters": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "folded": true,
+      "name": "Music & Sound",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
       "events": [
         {
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
+          "conditions": [],
+          "actions": [
             {
               "type": {
-                "value": "MouseButtonFromTextPressed"
+                "value": "SetMusicChannelVolume"
               },
               "parameters": [
-                "",
-                "\"Left\""
+                "Bgm",
+                "1",
+                "=",
+                "Data.Music"
               ]
             },
             {
               "type": {
-                "value": "BuiltinCommonInstructions::Once"
+                "value": "SetSoundChannelVolume"
               },
-              "parameters": []
+              "parameters": [
+                "Bgm",
+                "2",
+                "=",
+                "Data.Sound"
+              ]
             }
-          ],
-          "actions": [],
-          "events": [
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "IsCursorOnObject"
-                  },
-                  "parameters": [
-                    "ButtonPlusBgm",
-                    "",
-                    "",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "PlaySoundOnChannel"
-                  },
-                  "parameters": [
-                    "",
-                    "button.mp3",
-                    "2",
-                    "",
-                    "Data.Sound",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "Data.Music",
-                    "+",
-                    "1"
-                  ]
-                }
+              "type": {
+                "value": "PanelSpriteSlider::PanelSpriteSlider::SetValue"
+              },
+              "parameters": [
+                "Bgm",
+                "=",
+                "Data.Music",
+                ""
               ]
             },
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "IsCursorOnObject"
-                  },
-                  "parameters": [
-                    "ButtonMinBgm",
-                    "",
-                    "",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "PlaySoundOnChannel"
-                  },
-                  "parameters": [
-                    "",
-                    "button.mp3",
-                    "2",
-                    "",
-                    "Data.Sound",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "Data.Music",
-                    "-",
-                    "1"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "IsCursorOnObject"
-                  },
-                  "parameters": [
-                    "ButtonPlusSfx",
-                    "",
-                    "",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "PlaySoundOnChannel"
-                  },
-                  "parameters": [
-                    "",
-                    "button.mp3",
-                    "2",
-                    "",
-                    "Data.Sound",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "Data.Sound",
-                    "+",
-                    "1"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "IsCursorOnObject"
-                  },
-                  "parameters": [
-                    "ButtonMinSfx",
-                    "",
-                    "",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "PlaySoundOnChannel"
-                  },
-                  "parameters": [
-                    "",
-                    "button.mp3",
-                    "2",
-                    "",
-                    "Data.Sound",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "Data.Sound",
-                    "-",
-                    "1"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "IsCursorOnObject"
-                  },
-                  "parameters": [
-                    "ButtonX",
-                    "",
-                    "",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "PlaySoundOnChannel"
-                  },
-                  "parameters": [
-                    "",
-                    "button.mp3",
-                    "2",
-                    "",
-                    "Data.Sound",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Wait"
-                  },
-                  "parameters": [
-                    "0.3"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "HideLayer"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Setting\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetLayerEffectParameter"
-                  },
-                  "parameters": [
-                    "",
-                    "",
-                    "\"Effect\"",
-                    "\"lightness\"",
-                    "0"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Wait"
-                  },
-                  "parameters": [
-                    "0.3"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "wait",
-                    "=",
-                    "1"
-                  ]
-                }
+              "type": {
+                "value": "PanelSpriteSlider::PanelSpriteSlider::SetValue"
+              },
+              "parameters": [
+                "Sfx",
+                "=",
+                "Data.Sound",
+                ""
               ]
             }
           ]
         }
-      ]
+      ],
+      "parameters": []
     },
     {
       "type": "BuiltinCommonInstructions::Standard",
@@ -2332,23 +1494,12 @@
       "actions": [
         {
           "type": {
-            "value": "PanelSpriteSlider::PanelSpriteSlider::SetValue"
+            "value": "TiledUnitsBar::TiledUnitsBar::SetValue"
           },
           "parameters": [
-            "Bgm",
+            "FlatHeartBar",
             "=",
-            "Data.Music",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "PanelSpriteSlider::PanelSpriteSlider::SetValue"
-          },
-          "parameters": [
-            "Sfx",
-            "=",
-            "Data.Sound",
+            "Data.HealtHome",
             ""
           ]
         }
@@ -2396,60 +1547,6 @@
           "stringParameters": {},
           "booleanParameters": {
             "colorize": false
-          }
-        }
-      ]
-    },
-    {
-      "ambientLightColorB": 200,
-      "ambientLightColorG": 200,
-      "ambientLightColorR": 200,
-      "camera2DPlaneMaxDrawingDistance": 5000,
-      "camera3DFarPlaneDistance": 10000,
-      "camera3DFieldOfView": 45,
-      "camera3DNearPlaneDistance": 3,
-      "cameraType": "",
-      "followBaseLayerCamera": false,
-      "isLightingLayer": false,
-      "isLocked": false,
-      "name": "GoodEnding",
-      "renderingType": "",
-      "visibility": false,
-      "cameras": [],
-      "effects": [
-        {
-          "effectType": "Scene3D::HemisphereLight",
-          "name": "3D Ambient Hemisphere Light",
-          "doubleParameters": {
-            "elevation": 40,
-            "intensity": 0.33,
-            "rotation": 300
-          },
-          "stringParameters": {
-            "groundColor": "127;127;127",
-            "skyColor": "255;255;255",
-            "top": "Z+"
-          },
-          "booleanParameters": {}
-        },
-        {
-          "effectType": "Scene3D::DirectionalLight",
-          "name": "3D Sun Light",
-          "doubleParameters": {
-            "distanceFromCamera": 1500,
-            "elevation": 40,
-            "frustumSize": 4000,
-            "intensity": 0.75,
-            "minimumShadowBias": 0,
-            "rotation": 300
-          },
-          "stringParameters": {
-            "color": "255;255;255",
-            "shadowQuality": "medium",
-            "top": "Z+"
-          },
-          "booleanParameters": {
-            "isCastingShadow": true
           }
         }
       ]
@@ -2537,10 +1634,6 @@
     {
       "name": "Scale",
       "type": "ScalableCapability::ScalableBehavior"
-    },
-    {
-      "name": "Text",
-      "type": "TextContainerCapability::TextContainerBehavior"
     }
   ]
 }

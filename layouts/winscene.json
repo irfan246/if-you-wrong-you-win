@@ -147,7 +147,7 @@
           "name": "AutoTyping",
           "type": "AutoTyping::AutoTyping",
           "Text": "Text",
-          "Interval": 0.05,
+          "Interval": 0.3,
           "CharacterJustAdded": false,
           "FullText": "",
           "TypedText": ""
@@ -203,6 +203,34 @@
       "conditions": [
         {
           "type": {
+            "value": "SceneJustBegins"
+          },
+          "parameters": [
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "PlaySoundOnChannel"
+          },
+          "parameters": [
+            "",
+            "win.wav",
+            "2",
+            "",
+            "Data.Sound",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
             "value": "AutoTyping::AutoTyping::IsFinished"
           },
           "parameters": [
@@ -229,6 +257,23 @@
             "",
             "\"CreditScene\"",
             ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [
+        {
+          "type": {
+            "value": "SetSoundChannelVolume"
+          },
+          "parameters": [
+            "Bgm",
+            "2",
+            "=",
+            "Data.Sound"
           ]
         }
       ]
